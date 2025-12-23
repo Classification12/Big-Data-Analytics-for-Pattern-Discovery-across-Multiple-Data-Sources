@@ -1,0 +1,4 @@
+Census -> https://archive.ics.uci.edu/dataset/20/census+income
+rlcp -> https://archive.ics.uci.edu/dataset/210/record+linkage+comparison+patterns
+SUSY -> https://archive.ics.uci.edu/dataset/279/susy
+kddcup -> https://archive.ics.uci.edu/dataset/130/kdd+cup+1999+data
